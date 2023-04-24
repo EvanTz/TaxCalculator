@@ -1,0 +1,16 @@
+Name: Apostolos Zarras
+AFM: 123456789
+Status: Married Filing Jointly
+Income: 22570.0
+
+Receipts:
+
+Receipt ID: 1
+Date: THIS IS WRONG DATE
+Kind: Basic
+Amount: 251.0
+Company: Parta
+Country: Jakusa
+City: Drama
+Street: Fukosima
+Number: 5

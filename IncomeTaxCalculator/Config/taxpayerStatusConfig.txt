@@ -1,0 +1,24 @@
+# Configuration file with different tax related values per taxpayer category
+
+# Five values per attribute
+
+# Data types:
+# incomeBrackets -> Integer type
+# taxBasePerBracket -> Double type
+# taxPercentIncreasePerBracket -> Double type
+
+taxpayer.MarriedFilingJointly.incomeBrackets = 0,36080,90000,143350,254240
+taxpayer.MarriedFilingJointly.taxBasePerBracket = 0.0,1930.28,5731.64,9492.82,18197.69
+taxpayer.MarriedFilingJointly.taxPercentIncreasePerBracket = 0.0535,0.0705,0.0705,0.0785,0.0985
+
+taxpayer.MarriedFilingSeparately.incomeBrackets = 0,18040,71680,90000,127120
+taxpayer.MarriedFilingSeparately.taxBasePerBracket = 0.0,965.14,4746.76,6184.88,9098.80
+taxpayer.MarriedFilingSeparately.taxPercentIncreasePerBracket = 0.0535,0.0705,0.0785,0.0785,0.0985
+
+taxpayer.HeadofHousehold.incomeBrackets = 0,30390,90000,122110,203390
+taxpayer.HeadofHousehold.taxBasePerBracket = 0.0,1625.87,5828.38,8092.13,14472.61
+taxpayer.HeadofHousehold.taxPercentIncreasePerBracket = 0.0535,0.0705,0.0705,0.0785,0.0985
+
+taxpayer.Single.incomeBrackets = 0,24680,81080,90000,152540
+taxpayer.Single.taxBasePerBracket = 0.0,1320.38,5296.58,5996.80,10906.19
+taxpayer.Single.taxPercentIncreasePerBracket = 0.0535,0.0705,0.0785,0.0785,0.0985

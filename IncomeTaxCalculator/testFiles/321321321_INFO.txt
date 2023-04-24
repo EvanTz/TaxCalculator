@@ -1,0 +1,4 @@
+Name: Apostolos Zarras
+AFM: 123456789
+Status: THIS IS WRONG
+Income: 22570.0
